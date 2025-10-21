@@ -1,0 +1,15 @@
+# Ignorar bytecode y cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+
+# Ignorar archivos de configuración locales
+*.log
+*.sqlite3
+
+# Ignorar caché de pytest
+.pytest_cache/
